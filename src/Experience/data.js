@@ -22,7 +22,7 @@ export default [
           <span>
             Join the Beta experience this 
             <span class="secondary-color">
-              February 15!
+              Coming soon!
             </span>
           </span>
       </div>
@@ -303,7 +303,7 @@ export default [
           <span>
             Únete a la experiencia Beta este
             <span class="secondary-color">
-             13 de Febrero.
+             Proximamente.
             </span>
           </span>
       </div>
