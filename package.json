@@ -1,0 +1,30 @@
+{
+  "name": "peaksynap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abitsalihu/peakSynap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abitsalihu/peakSynap/issues"
+  },
+  "homepage": "https://github.com/abitsalihu/peakSynap#readme",
+  "description": "",
+  "devDependencies": {
+    "gsap": "^3.12.7",
+    "lil-gui": "^0.20.0",
+    "postprocessing": "^6.36.7",
+    "stats.js": "^0.17.0",
+    "three": "^0.174.0",
+    "vite": "^6.2.0",
+    "vite-plugin-glsl": "^1.3.3"
+  }
+}
